@@ -60,7 +60,7 @@
       "value": "Asia/Kolkata",
       "required": false
     },
-    "EMOJI_TO_DISPLAY_IN_HELP"{
+    "EMOJI_TO_DISPLAY_IN_HELP" {
      "description":Use your fvrt emoji",
       "value": "❣️",
       "required": false
