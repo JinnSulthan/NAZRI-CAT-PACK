@@ -67,14 +67,14 @@
    },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "danger_cat",
+      "value": "https://github.com/dangerbots/danger_cat",
       "required": false
     
     
    },
     "EMOJI_TO_DISPLAY_IN_HELP": {
 
-      "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
+      "description": "use. your favert emoji",
 
       "value": "❣️",
 
