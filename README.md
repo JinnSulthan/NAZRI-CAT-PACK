@@ -7,3 +7,6 @@
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
    - [@DeletedUser420](https://t.me/DeletedUser420)
 hi
+
+
+### THIS REPO IS FOR MY USE DONT USE IT I WOULD NOT SUPPORT IF ACCOUNT GOT SUSPENDED I WOULD LAUGH ON YOU. 
